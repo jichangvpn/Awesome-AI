@@ -1,2 +1,422 @@
-# Awesome-AI
-汇总全网所有的AI工具，相信总有一款是你需要的
+# AI导航站点集合
+收集整理各种AI相关的站点资源
+
+### AI对话聊天
+- [豆包](https://m.paluai.com/?code=dh16) - 豆包抖音旗下AI工具，你的智能助手
+- [ChatGPT](https://cn.bing.com/search?q=ChatGPT&ensearch=1) - ChatGPTOpenAI旗下AI对话工具
+- [Bing新必应](https://cn.bing.com/search?q=Bing%E6%96%B0%E5%BF%85%E5%BA%94&ensearch=1) - Bing新必应微软推出的新版结合了ChatGPT功能的必应
+- [文心一言](https://www.bing.com/search?q=%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80) - 文心一言百度推出的基于文心大模型的AI对话互动工具
+- [Google Bard](https://cn.bing.com/search?q=Google%20Bard&ensearch=1) - Google BardGoogle推出的AI聊天对话机器人Bard
+- [Claude](https://cn.bing.com/search?q=Claude&ensearch=1) - ClaudeChatGPT的最为有力的竞争对手之一
+- [百度AI伙伴](https://chat.baidu.com/) - 百度AI伙伴百度最新上线的AI搜索对话工具
+- [AI 提示语](https://www.tishi.top/?invite=oAdOuh) - AI 提示语以提示语为纽带，连接各类 AI 模型快速构建 AI 应用,让每个人都能轻松使用 AI
+- [Forefront](https://cn.bing.com/search?q=Forefront&ensearch=1) - Forefront免费版基于GPT-4的AI聊天机器人
+- [HuggingChat](https://cn.bing.com/search?q=HuggingChat&ensearch=1) - HuggingChatHuggingFace推出的在线聊天机器人，基于Open Assistant模型
+- [Poe](https://cn.bing.com/search?q=Poe&ensearch=1) - Poe问答社区Quora推出的问答机器人工具
+- [TigerBot](https://tigerbot.com/?utm_source=ai-nav.net) - TigerBot虎博科技推出的AI对话聊天机器人，基于TigerBot开源大模型
+- [ColossalChat](https://cn.bing.com/search?q=ColossalChat&ensearch=1) - ColossalChatColossal-AI推出的免费开源版ChatGPT聊天机器人替代品
+- [Character.AI](https://cn.bing.com/search?q=Character.AI&ensearch=1) - Character.AI创建虚拟角色并与其对话
+- [Jasper Chat](https://cn.bing.com/search?q=Jasper%20Chat&ensearch=1) - Jasper ChatJasper针对内容创作者出品的AI聊天工具
+- [YouChat AI](https://cn.bing.com/search?q=YouChat%20AI&ensearch=1) - YouChat AIAI搜索对话工具
+- [ChatSonic](https://cn.bing.com/search?q=ChatSonic&ensearch=1) - ChatSonicWriteSonic出品的ChatGPT竞品
+- [Replika](https://cn.bing.com/search?q=Replika&ensearch=1) - ReplikaAI对话陪伴工具
+- [Whispr](https://cn.bing.com/search?q=Whispr&ensearch=1) - Whispr免费AI对话回应
+- [Open Assistant](https://cn.bing.com/search?q=Open%20Assistant&ensearch=1) - Open Assistant免费开源的对话式AI
+- [Pi](https://cn.bing.com/search?q=Pi&ensearch=1) - PiDeepMind联创新公司推出的AI聊天机器人
+- [通义千问](https://tongyi.aliyun.com/) - 通义千问阿里巴巴最新推出的类ChatGPT响应人类指令的大模型
+- [Inworld](https://cn.bing.com/search?q=Inworld&ensearch=1) - Inworld开发和创建AI虚拟角色并与其互动
+- [360智脑](https://ai.360.cn/?src=ai-nav.net) - 360智脑360搜索最新推出的AI对话聊天机器人
+- [MOSS](https://moss.fastnlp.top/) - MOSS复旦大学团队开发的对话式大型语言模型
+- [讯飞星火认知大模型](https://xinghuo.xfyun.cn/?ch=srx_B0BBxh) - 讯飞星火认知大模型科大讯飞推出的类ChatGPT的讯飞星火认知大模型
+- [ChatGLM](https://chatglm.cn/) - ChatGLM开源的、支持中英双语的1300亿参数的对话语言模型
+- [商量SenseChat](https://chat.sensetime.com/wb/) - 商量SenseChat商汤科技推出的类ChatGPT的人工智能大语言模型
+- [天工AI助手](https://tiangong.kunlun.com/) - 天工AI助手昆仑万维与奇点智源联合研发的对标ChatGPT的大语言模型
+- [免费ChatGPT中文版](https://chatgai.lovepor.cn/?code=1015224583) - 免费ChatGPT中文版国内免费使用ai聊天问答、写作、文生视频、生成ppt、ai绘画于一体的产品
+- [Kimi智能助手](https://volctrack.com/w/FbajRw5F) - Kimi智能助手长文本？不在话下！Kimi智能梳理，效率卓越。
+- [讯飞星火](https://xinghuo.xfyun.cn/?ch=srx_B0BBxh) - 讯飞星火科大讯飞推出的基于星火认知大模型的AI对话类产品
+- [NogoAi](http://chai-ai.xyz) - NogoAiNogoAi基于人工智能领域优秀产品打造。包含文章类、学术类、广告类、设计类、数字营销类、音视频类等
+- [Flot.ai](https://flot.ai/) - Flot.aiYour AI Copilot for All Apps and Websites
+- [ChatGPT PopTalk](https://microsoftedge.microsoft.com/addons/detail/chatgpt-poptalk/cnbhoodemidaloolellgooogdncmnkfb) - ChatGPT PopTalkAccess OpenAI’s ChatGPT anytime
+- [智造喵](https://chat.plexpt.com/i/28941) - 智造喵整合GPT对话、绘画功能，且具有非常丰富的功能模块
+- [慧言AI](https://www.huiyan-ai.com) - 慧言AI免费稳定的AI站，GPT4.0、GPT3.5、AI绘画；用户2万+，稳定运行7个月
+
+### AI写作工具
+- [AI论文免费](https://www.aipaperpass.com/?pic=NY0O) - AI论文免费10分钟5万字，AI无限改稿，包含图表公式代码，知网AIGC超25%退费。
+- [AI论文-高质量论文写作](https://www.66paper.cn/AI_A2EDB3C) - AI论文-高质量论文写作好评如潮！高质量、低查重、低AIGC率
+- [免费爆文改写](https://ilingban.com/chat/?type=write&function=rewrite&from=xyqd1) - 免费爆文改写一键改写润色爆款文案，总结文档内容，同时集对话、翻译、写
+- [度加创作工具](https://aigc.baidu.com/make?utm_source=ai-nav.net) - 度加创作工具百度官方出品的AIGC创作平台
+- [范文喵AI论文助手](https://ai.wolian.chat/openmao/#/?inviteCode=1850834779952386050) - 范文喵AI论文助手毕业论文写作的好帮手
+- [墨狐AI](https://inkfox-ai.com?utm_source=navigator&utm_campaign=ai-nav) - 墨狐AI人人都是小说家
+- [Kimi智能助手](https://volctrack.com/w/FbajRw5F) - Kimi智能助手长文本？不在话下！Kimi智能梳理，效率卓越。
+- [讯飞绘文](https://turbodesk.xfyun.cn/?channelid=gj88) - 讯飞绘文通用稿件5分钟生成，深度稿件编辑效率翻番。一站式高效运营，全流程智能优化。
+- [讯飞星火](https://xinghuo.xfyun.cn/?ch=srx_B0BBxh) - 讯飞星火科大讯飞推出的基于星火认知大模型的AI对话类产品
+- [Flot.ai](https://flot.ai/) - Flot.aiYour AI Copilot for All Apps and Websites
+- [秘塔写作猫](https://xiezuocat.com/) - 秘塔写作猫AI写作，文章自成
+- [Jasper](https://www.bing.com/search?q=Jasper&ensearch=1&mkt=zh-CN) - JasperAI文字内容创作工具
+- [Copy.ai](https://www.bing.com/search?q=Copy.ai&ensearch=1&mkt=zh-CN) - Copy.ai人工智能营销文案和内容创作工具
+- [Writesonic](https://www.bing.com/search?q=Writesonic&ensearch=1&mkt=zh-CN) - WritesonicAI写作，文案，释义工具
+- [Rytr](https://www.bing.com/search?q=Rytr&ensearch=1&mkt=zh-CN) - RytrAI内容生成和写作助手
+- [彩云小梦](https://if.caiyunai.com/dashboard/novels) - 彩云小梦彩云科技推出的智能AI故事写作工具
+- [Grammarly](https://www.grammarly.com/) - GrammarlyAI英语语法和拼写检查写作助手
+- [QuillBot](https://quillbot.com/?gspk=ZG9uYWxkY29vcGVyNjk1OA&gsxid=7R9o9Bhn62gH&pscd=try.quillbot.com) - QuillBotAI英/德语写作润色和改进工具
+- [万彩AI](https://ai.kezhan365.com/) - 万彩AI全能型AI内容和文案创作助手
+- [火山写作](https://www.writingo.net/document?source=gj1) - 火山写作字节跳动旗下团队推出的免费AI英语写作助手
+- [Notion AI](https://www.bing.com/search?q=Notion%20AI&ensearch=1&mkt=zh-CN) - Notion AINotion推出的AI内容创作助手
+- [DeepL Write](https://www.deepl.com/write) - DeepL WriteDeepL推出的AI驱动的写作助手
+- [Coda AI](https://coda.io/product/ai?utm_source=ai-nav.net) - Coda AI在线协作平台Coda推出的AI写作和文档助手，类似于Notion AI
+- [Jenni](https://www.bing.com/search?q=Jenni&ensearch=1&mkt=zh-CN) - JenniAI研究文章和博客写作辅助工具
+- [奇妙文](https://wen.mobvoi.com/?ref=ai-nav.net) - 奇妙文出门问问推出的AI写作助理
+- [魔撰写作](https://x.moyin.com/?ref=ai-nav.net) - 魔撰写作魔音工坊团队推出的AI智能写作工具
+- [有道写作](https://write.youdao.com/#/homepage) - 有道写作网易有道出品的智能英文写作修改和润色工具
+- [爱创作](https://ai.zaker.cn/) - 爱创作ZAKER新闻推出的AI写作工具
+- [Verse](https://verse.app.yinxiang.com/product/?utm_source=ai-nav.net) - Verse印象笔记旗下团队推出的AI写作和文档工具
+- [Moonbeam](https://www.bing.com/search?q=Moonbeam&ensearch=1&mkt=zh-CN) - Moonbeam长文章AI内容创作助手
+- [Cohesive](https://www.bing.com/search?q=Cohesive&ensearch=1&mkt=zh-CN) - Cohesive人工智能文案内容创作和编辑工具
+- [Magic Write](https://www.bing.com/search?q=Magic%20Write&ensearch=1&mkt=zh-CN) - Magic WriteCanva旗下AI文案生成器
+- [NovelAI](https://www.bing.com/search?q=NovelAI&ensearch=1&mkt=zh-CN) - NovelAIAI小说故事创作工具
+- [HyperWrite](https://www.bing.com/search?q=HyperWrite&ensearch=1&mkt=zh-CN) - HyperWriteAI写作助手帮助你创作内容更自信
+- [Typeface AI](https://www.bing.com/search?q=Typeface%20AI&ensearch=1&mkt=zh-CN) - Typeface AIAI创意内容创作助手
+- [悉语](https://chuangyi.taobao.com/pages/aiCopy) - 悉语阿里旗下智能文案工具，一键生成电商营销文案
+- [Effidit](https://effidit.qq.com/) - Effidit腾讯AI Lab开发的智能创作助手
+- [火龙果写作](https://www.mypitaya.com/) - 火龙果写作AI驱动的文字生产力工具
+- [爱改写](https://www.aigaixie.com/) - 爱改写AI改写、纠错、润色辅助工具
+- [易撰](https://www.yizhuan5.com/work.html#1-4) - 易撰新媒体AI内容创作助手
+- [智搜](https://www.giiso.com/#/) - 智搜Giiso写作机器人，内容创作AI辅助工具
+- [创作王](https://aiapp.cc/?ref=ai-nav.net) - 创作王AI一键帮助你创作营销内容
+- [字符狂飙](https://vgoapp.com/?ref=ai-nav.net) - 字符狂飙全方位AI文档生成工具，快速生成专业文档
+- [讯飞智检](https://zj.xfyun.cn/exam/text) - 讯飞智检讯飞推出的智能写作SaaS工具，支持智能写作后的校对与合规审核
+- [5118 SEO优化精灵](https://www.5118.com/ai/articlegenius) - 5118 SEO优化精灵一键式生成高质量SEO文章，提高搜索引擎排名获得更多流量
+- [ContentBot](https://cn.bing.com/search?q=ContentBot&ensearch=1) - ContentBotAI快速写作工具
+- [Bearly](https://cn.bing.com/search?q=Bearly&ensearch=1) - BearlyAI阅读总结、写作和内容生成助手
+- [快文CopyDone](https://copyai.cn/) - 快文CopyDoneAIGC原创内容创作和营销文案生成
+- [Peppertype.ai](https://cn.bing.com/search?q=Peppertype.ai&ensearch=1) - Peppertype.ai高质量AI内容生成
+- [Compose AI](https://cn.bing.com/search?q=Compose%20AI&ensearch=1) - Compose AI免费的Chrome浏览器自动化写作扩展
+
+### AI图像工具
+
+### AI设计工具
+- [Alpaca](https://www.alpacaml.com/?ref=ai-nav.net) - 将生成式AI集成到Photoshop图像设计中
+- [Khroma](https://www.khroma.co/) - AI调色盘生成工具
+- [IconifyAI](https://www.iconifyai.com/) - AI App图标生成器
+- [Appicons AI](https://appicons.ai/) - AI生成精美App图标
+- [Magician](https://magician.design/) - Figma插件，AI生成图标、图片和UX文案
+- [Logomaster.ai](https://logomaster.ai/) - AI Logo生成工具
+- [ColorMagic](https://www.obviously.ai/) - AI调色板生成工具
+- [Huemint](https://huemint.com/) - AI调色生成工具
+- [Color Wheel](https://brandmark.io/color-wheel/) - AI灰度logo或插画上色工具
+- [Eva Design System](https://colors.eva.design/) - 基于深度学习的色彩生成工具
+- [Illustroke](https://illustroke.com/) - AI SVG矢量插画生成工具
+- [Poly](https://withpoly.com/browse/textures) - AI生成3D材质
+- [美间](https://www.meijian.com/introduction?utm_source=ai-nav.net) - AI软装设计、海报和提案生成工具
+- [图宇宙](https://www.nolibox.com/introduction?ref=ai-nav.net) - 高品质AI智能设计平台
+- [Luma AI](https://lumalabs.ai/) - AI 3D捕捉、建模和渲染
+- [Uizard](https://uizard.io/ai-design/) - AI网页、App和UI设计
+- [illostrationAI](https://www.illostration.com/) - AI插画生成，low poly、3D、矢量、logo、像素风、皮克斯等风格
+- [Spline AI](https://spline.design/ai) - Spline推出的AI生成3D物体、动画、材质
+- [Galileo AI](https://www.usegalileo.ai/) - AI高保真原型设计
+- [Designs.ai](https://designs.ai/) - AI设计工具
+- [Dora AI](https://www.dora.run/ai?ref=ai-nav.net) - AI在线生成精美3D动画的网站
+- [Vizcom](https://www.vizcom.ai/) - AI渲染转化手绘图为产品设计图
+- [模袋云AI](https://www.modaiyun.com/mdy/ai?utm_source=ai-nav.net) - 建筑AI创作平台，专注于大型建筑、小型住宅、室内设计、景观的出图和AI模型训练
+- [Realibox AI](https://www.realibox.com/product/ai?utm_source=ai-nav.net) - AI免费将草图/模型生成3D渲染图
+- [LogoliveryAI](https://logolivery.ai/?utm_source=ai-nav.net) - 免费的AI Logo生成器，提供SVG矢量格式
+- [MasterGo AI](https://mastergo.com/upcoming-ai/apply?utm_source=ai-nav.net) - 国产产品设计工具MasterGo推出的智能UI设计助手
+- [Fabrie AI](https://www.fabrie.cn/ai/copilot?utm_source=ai-nav.net) - 在线白板协作平台Fabrie推出的AI设计助手，支持多种渲染模式
+- [Framer AI](https://www.framer.com/ai?utm_source=ai-nav.net) - Framer推出的AI网站自动设计、生成和上线
+- [Recraft AI](https://ai-nav.net/sites/596.html) - 免费无限AI画板，生成高质量矢量艺术画、图标、3D图片和插画
+- [墨刀AI](https://modao.cc/?utm_source=ai-nav.net) - 墨刀推出的AI产品原型设计助手
+- [羚珑](https://ling.jd.com/) - 京东推出的商品图智能设计小工具
+- [鹿班](https://luban.aliyun.com/?ref=ai-nav.net) - 阿里推出的智能设计商品图和海报的平台
+- [Looka](https://looka.com/) - AI在线设计和生成logo
+- [AIDesign](https://ailogo.qq.com/guide/brandname) - 腾讯推出的免费AI Logo在线设计工具
+- [阿里云智能logo设计](https://logo.aliyun.com/logo#/aigc) - 阿里云推出的智能Logo设计
+- [智绘设计](https://taishan.qq.com/brand/?ref=ai-nav.net) - 腾讯推出的智能设计平台，让内容更精彩
+- [美图设计室](https://design.meitu.com/poster/?from=ai-nav.net) - 美图推出的AI海报设计工具，一键生成海报宣传图
+- [Magic Design](https://www.canva.cn/?display-com-option=true) - 在线设计工具Canva推出的AI设计工具
+- [Microsoft Designer](https://designer.microsoft.com/) - 微软推出的在线设计海报和宣传图工具
+- [即时AI](https://js.design/ai?source=ai-nav.net) - 即时设计推出的由文本描述生成可编辑的原型设计稿
+- [稿定AI](https://www.gaoding.com/ai) - 一站式AI创意工具集合，AI绘图、场景生成，商品合成
+
+### AI视频工具
+- [白日梦AI](https://aibrm.com/signup?code=dh_nav) - 白日梦AI是一款全新的文生视频类AIGC创作平台。
+- [智谱清影](https://chatglm.paluai.com/qingyan) - 文生视频/图生视频，免费使用不限次数
+- [即梦AI](https://jimeng.paluai.com/ai-tool?utm_source=ai-nav.net) - 免费AI绘画和视频生成工具
+- [闪剪 - AI 数字人](https://shanjian.tv/?utm_source=ai-nav.net) - 轻松生成数字人口播
+- [Rask](https://www.rask.ai/?ref=ai-nav.net) - AI视频本地化解决方案
+- [Neurodub](https://neurodub.ai/) - 端到端的AI视频语音本地化工具
+- [SteveAI](https://www.steve.ai/) - Animaker旗下AI在线视频制作工具
+- [Pictory](https://pictory.ai/) - AI视频制作工具
+- [Elai.io](https://elai.io/) - AI文本到视频生成工具
+- [Movio](https://www.movioai.tech/) - AI真人出镜视频讲解
+- [AVCLabs](https://app.avclabs.com/#/) - AI自动移除视频背景
+- [Colossyan](https://www.colossyan.com/) - AI虚拟人出镜视频生成
+- [Cutout.Pro](https://www.cutout.pro/zh-CN/remove-video-background) - AI一键视频背景移除
+- [Colourlab.ai](https://colourlab.ai/) - 好莱坞也在用的AI视频颜色分级工具
+- [BgRem](https://bgrem.ai/zh/remove-video-bg/?params=start) - 无水印AI视频背景移除
+- [Hour One](https://hourone.ai/) - 人工智能文字到视频生成
+- [Veed Video Background Remover](https://ai-nav.net/sites/732.html) - Veed推出的AI视频背景移除工具
+- [Synthesys](https://ai-nav.net/sites/730.html) - AI虚拟人出镜讲解
+- [Gencraft](https://ai-nav.net/sites/728.html) - AI艺术画视频生成工具
+- [绘影字幕](https://ai-nav.net/sites/726.html) - 一键智能在线自动为视频加字幕
+- [万彩微影](https://ai-nav.net/sites/720.html) - AI智能自动生成动画短视频
+- [HeyGen](https://ai-nav.net/sites/718.html) - AIGC 视频创建平台，生成吸引人的商业视频
+- [奇妙元](https://ai-nav.net/sites/716.html) - AI数字人视频生成平台，由出门问问推出
+- [万兴播爆](https://ai-nav.net/sites/714.html) - 万兴科技推出的AI数字人口播视频营销工具
+- [来画](https://ai-nav.net/sites/711.html) - 动画和数字人智能生成平台
+- [Rephrase.ai](https://ai-nav.net/sites/709.html) - AI文字到视频生成
+- [Lumen5](https://ai-nav.net/sites/704.html) - AI将博客文章转换成视频
+- [Synthesia](https://ai-nav.net/sites/702.html) - AI视频生成平台
+- [DeepBrain](https://ai-nav.net/sites/700.html) - AI口播视频生成工具
+- [Fliki](https://ai-nav.net/sites/698.html) - AI文字转视频并配音
+- [DreamFace](https://ai-nav.net/sites/696.html) - 让图片动起来的AI工具
+- [Kaiber](https://ai-nav.net/sites/694.html) - 图片文字转视频的AI引擎
+- [EbSynth](https://ai-nav.net/sites/692.html) - AI将真人视频转化为油画风动画
+- [Unscreen](https://ai-nav.net/sites/690.html) - AI智能视频背景移除工具
+- [Artflow](https://ai-nav.net/sites/686.html) - AI创建生成视频动画
+- [Wonder Studio](https://ai-nav.net/sites/684.html) - AI自动为CG角色制作动画、打光并将其合成到真人场景中
+- [快剪辑](https://ai-nav.net/sites/682.html) - 360旗下的AI视频剪辑工具，AI成片、AI数字人、智能添加字幕、去水印等
+- [腾讯智影](https://ai-nav.net/sites/680.html) - 腾讯推出的在线智能视频创作平台
+- [D-ID](https://ai-nav.net/sites/678.html) - AI真人口播视频生成工具
+- [Runway](https://ai-nav.net/sites/676.html) - 强大的AI视频制作工具，绿幕抠像、视频合成等
+- [一帧秒创](https://ai-nav.net/sites/674.html) - 简单好用的AI智能视频创作平台
+- [度加创作工具](https://aigc.baidu.com/make?utm_source=ai-nav.net) - 百度官方出品的AIGC创作平台
+
+### AI音频工具
+- [网易天音](https://tianyin.music.163.com/#/) - 网易推出的一站式AI音乐创作工具
+- [TME Studio](https://y.qq.com/tme_studio/index.html#/) - 腾讯音乐推出的智能音乐创作助手
+- [Riffusion](https://www.riffusion.com/) - AI生成不同风格的音乐，免费开源
+- [讯飞智作](https://peiyin.xunfei.cn/?utm_source=ai-nav.net) - 科大讯飞推出的AI转语音和配音工具
+- [Uberduck](https://uberduck.ai/?via=ai-nav) - 开源的AI语音生成社区，5000多种不同的声音
+- [Adobe Podcast](https://podcast.adobe.com/) - Adobe推出的在线AI音频录制和编辑工具
+- [网易云音乐·X Studio](https://ai-nav.net/sites/876.html) - https://xstudio.music.163.com/?utm_source=ai-nav.net
+- [ACE Studio](https://ace-studio.timedomain.cn/) - AI歌声合成工具，输入歌词与旋律即可生成宛如真人的歌声
+- [Resemble.ai](https://www.resemble.ai/) - AI人声生成工具
+- [IBM Watson文字转语音](https://www.ibm.com/products/text-to-speech) - IBM Watson文字转语音
+- [FakeYou](https://fakeyou.com/) - Deep Fake文本转语音
+- [魔音工坊](https://www.moyin.com/?ref=ai-nav.net) - 短视频/有声书AI配音平台，由出门问问推出
+- [BGM猫](https://bgmcat.com/home) - 灵动音科技推出的AI智能生成BGM音乐
+- [悦音配音](https://yueyin.zhipianbang.com/?utm_source=ai-nav.net) - AI智能在线配音语音合成工具
+- [Mubert](https://mubert.com/) - AI BGM背景音乐生成工具
+- [Beatoven.ai](https://www.beatoven.ai/) - 免版税AI音乐创建平台
+- [BeatBot](https://beatbot.fm/?ref=ai-nav.net) - 输入文本提示快速生成歌曲和音乐
+- [Audo Studio](https://audo.ai/) - AI音频清洗工具（噪音消除、声音平衡、音量调节）
+- [NaturalReader](https://www.naturalreaders.com/) - AI文本转语音工具
+- [AssemblyAI](https://www.assemblyai.com/) - 转录和理解语音的AI模型
+- [LALAL.AI](https://www.lalal.ai/) - AI人声乐器分离和提取
+- [Krisp](https://krisp.ai/) - AI噪音消除工具
+- [Play.ht](https://play.ht/) - 超真实在线AI语音生成
+- [Murf AI](https://murf.ai/) - AI文本转语音生成工具
+- [Lemonaid](https://lemonaid.ai/) - AI音乐生成工具
+- [Soundraw](https://soundraw.io/) - AI音乐生成工具
+- [Boomy](https://boomy.com/) - AI快速生成原创音乐的平台
+- [LOVO AI](https://lovo.ai/) - AI人声和文本转语音生成工具
+- [Typecast](https://typecast.ai/) - 在线AI文字转语音生成工具
+- [Veed AI Voice Generator](https://www.veed.io/tools/text-to-speech-video/ai-voice-generator) - Veed推出的AI语音生成器
+- [Clipchamp AI旁白生成器](https://clipchamp.com/zh-hans/features/ai-voice-over-generator/) - Clipchamp的文字转语音生成器
+- [MetaVoice](https://themetavoice.xyz/) - AI实时变声工具
+- [Speechify](https://speechify.com/zh-hans/) - 超2000万人都在用的文字转语音朗读器
+- [Voicemaker](https://voicemaker.in/) - AI文本到语音生成工具
+- [Voice.ai](https://voice.ai/) - 实时AI变声工具
+- [Listnr](https://www.listnr.tech/) - AI文本到语音生成器
+- [Voicemod](https://www.voicemod.net/ai-voices/) - AI变声工具
+- [WellSaid Labs](https://wellsaidlabs.com/) - AI文本转语音工具
+- [Notta](https://www.notta.ai/en) - AI在线将语音转换成文字
+- [通义听悟](https://tingwu.aliyun.com/?utm_source=ai-nav.net) - 阿里推出的AI会议转录工具，万语千言，心领神悟
+
+### AI编程工具
+- [代码小浣熊](https://xiaohuanxiong.com/code?utm_source=bljuly17) - AI智能编程
+- [Ghostwriter](https://replit.com/site/ghostwriter) - 知名在线编程IDE Replit推出的AI编程助手
+- [HeyCLI](https://www.heycli.com/) - 自然语言转义为CLI命令
+- [Visual Studio IntelliCode](https://visualstudio.microsoft.com/zh-hans/services/intellicode/) - Visual Studio AI辅助开发
+- [AI Code Reviewer](https://ai-code-reviewer.com/) - AI代码检查
+- [HTTPie AI](https://httpie.io/ai) - AI API开发工具
+- [Hocoos](https://hocoos.com/) - 无代码AI智能在线快速创建网站
+- [CodeSnippets](https://codesnippets.ai/) - AI代码生成、补全、分析、重构和调试
+- [Fig](https://fig.io/) - 下一代命令行工具（内置AI终端命令自动补全）
+- [Warp](https://www.warp.dev/) - 21世纪的终端工具（内置AI命令搜索）
+- [Debuild](https://debuild.app/) - 低代码快速开发网页应用
+- [Mutable AI](https://mutable.ai/) - 人工智能加速软件开发
+- [Tabnine](https://www.tabnine.com/) - AI代码自动补全编程助手
+- [MarsX](https://www.marsx.dev/) - AI无代码软件开发
+- [Fronty](https://fronty.com/) - AI智能将图片转换成HTML和CSS代码
+- [Locofy](https://www.locofy.ai/) - AI无代码工具将Figma、Adobe XD和Sketch设计转换成前端代码
+- [Codiga](https://www.codiga.io/) - AI代码实时分析
+- [Deco](https://ling-deco.jd.com/) - 京东推出的设计稿一键生成多端代码工具  标签：AI编程工具
+- [Imgcook](https://www.imgcook.com/) - 阿里推出的免费设计稿智能生成前端代码  标签：AI编程工具
+- [AirOps](https://www.airops.com/) - AI SQL语句生成和修改
+- [aiXcoder](https://www.aixcoder.com/#/) - 自然语言到代码的方法级代码生成，以及多行智能代码补全
+- [JamGPT](https://jam.dev/jamgpt) - AI Debug调试助手
+- [天工智码Skycode](https://sky-code.singularity-ai.com/index.html#/) - AI智能编程助手，轻松生成各种代码
+- [Quest AI](https://www.quest.ai/?utm_source=ai-nav.net) - AI将设计稿生成React代码，支持JavaScript和TypeScript
+- [Boxy](https://codesandbox.io/blog/meet-boxy-ai-coding-assistant) - CodeSandbox推出的AI编程助手
+- [CodeGeex](https://codegeex.cn/zh-CN) - 国内团队开发的免费AI编程助手
+- [AskCodi](https://www.askcodi.com/) - 你的个人AI编程助手
+- [CodeArts Snap](https://www.huaweicloud.com/lab/paas/codeartssnap.html) - 华为云推出的智能编程助手
+- [Cursor](https://www.cursor.so/) - AI编程和软件开发
+- [CodiumAI](https://www.codium.ai/) - AI代码测试工具
+- [Sketch2Code](https://www.microsoft.com/en-us/ai/ai-lab-sketch2code) - Sketch2Code由微软AILab于2018年推出，旨在帮助开发人员轻松地将手绘草图转化成HTML代码的[…]
+- [Codeium](https://codeium.com/) - AI代码生成和补全
+- [BLACKBOX AI](https://www.useblackbox.io/?ref=ai-nav.net) - 黑箱AI编程助理，快速代码生成
+- [Cody](https://about.sourcegraph.com/cody?utm_source=ai-nav.net) - Sourcegraph推出的免费AI编程工具
+- [CodeWhisperer](https://aws.amazon.com/cn/codewhisperer/) - 亚马逊最新发布的免费AI编程助手
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub AI编程工具
+
+### AI语言翻译
+- [金山快译](https://kuaiyi.wps.cn/txt-translate) - 金山WPS推出的在线翻译平台
+- [百度AI同传助手](https://fanyi.baidu.com/appdownload/download.html?tab=helper&fr=pcproduct) - 中英文音视频同传字幕工具
+- [彩云小译](https://fanyi.caiyunapp.com/#/) - 兼具中日英同声传译、文档翻译和网页翻译的智能翻译工具
+- [搜狗翻译](https://fanyi.sogou.com/text) - 你的贴身智能翻译专家
+- [讯飞智能翻译](https://fanyi.xfyun.cn/console/trans/text) - 科大讯飞推出的人工智能翻译平台
+- [TranSmart](https://transmart.qq.com/zh-CN/index) - 腾讯AI Lab推出的一款AI辅助翻译产品
+- [腾讯翻译君](https://fanyi.qq.com/) - 你免费的随身翻译
+- [百度翻译](https://fanyi.baidu.com/) - 200种语言互译、沟通全世界！
+- [Google翻译](https://translate.google.com/) - Google免费提供的上百种语言智能翻译工具
+- [必应翻译](https://www.bing.com/translator/) - 微软必应推出的翻译工具
+- [火山翻译](https://translate.volcengine.com/) - 字节跳动推出的智能翻译工具
+- [阿里翻译](https://translate.alibaba.com/?ref=ai-nav.net) - 阿里巴巴达摩院推出的多领域多语种的在线机器翻译
+- [网易见外](https://sight.youdao.com/?utm_source=ai-nav.net) - 网易推出的AI智能翻译平台，支持音视频、文档、图片、字幕等翻译
+- [象寄翻译](https://www.xiangjifanyi.com/console/register-invite/11e32df384553a90) - AI图片和视频翻译神器，支持多种语言的翻译
+- [DeepL翻译](https://www.deepl.com/translator) - 准确的人工智能翻译工具
+
+### AI学习网站
+- [网易AI绘画课](https://ke.study.163.com/topic/study/AIHHweiruanhezuo.html?outVendor=weixin_kol_fhq_aihh0_0508_dlhfxykj_ai_navnet) - 大厂自研课，清美大佬手把手带你实现AI商业落地，报名免费体验云端SD。
+- [ShowMeAI知识社区](https://www.showmeai.tech/?ref=ai-nav.net) - 人工智能领域的资料库和学习社区
+- [Google AI](https://ai.google/) - Google AI学习平台
+- [Udacity AI学院](https://www.udacity.com/school/school-of-ai) - Udacity推出的School of AI，从入门到高级
+- [阿里云AI学习路线](https://developer.aliyun.com/learning/roadmap/ai) - 阿里云推出的人工智能学习路线（学+测）
+- [AI大学堂](https://www.aidaxue.com/) - 科大讯飞推出的AI大学堂，学习AI、走进未来
+- [飞桨AI Studio](https://aistudio.baidu.com/aistudio/index) - 人工智能学习实训社区
+- [神经网络入门](https://brilliant.org/courses/intro-neural-networks/) - Brilliant推出的Introduction to Neural Networks课程
+- [Kaggle](https://www.kaggle.com/) - 机器学习和数据科学社区
+- [ML for Beginners](https://microsoft.github.io/ML-For-Beginners/#/) - 微软推出的免费开源的机器学习课程，GitHub标星4万+
+- [MachineLearningMastery](https://machinelearningmastery.com/start-here/) - 免费在线学习机器学习，从基础到高级
+- [动手学深度学习](https://zh.d2l.ai/) - 动手学深度学习的教材和课程
+- [DeepLearning.AI](https://www.deeplearning.ai/) - 深度学习和人工智能学习平台
+- [Elements of AI](https://www.elementsofai.com/) - 免费在线AI通识学习
+- [Coursera](https://www.coursera.org/collections/best-machine-learning-ai) - 知名MOOC平台，众多人工智能和机器学习课程
+- [fast.ai](https://www.fast.ai/) - 免费开源的深度学习和AI学习网站，让每个人都参与到AI！
+
+### AI内容检测
+- [Winston AI](https://gowinston.ai/) - 强大的AI内容检测解决方案
+- [CopyLeaks](https://copyleaks.com/) - AI内容检测和分级
+- [Originality.AI](https://originality.ai/) - 原创度和AI内容检测
+- [AI Content Detector](https://writer.com/ai-content-detector/) - Writer推出的AI内容检测工具
+- [GPT Detector](https://x.writefull.com/gpt-detector) - 在线检查文本是否由GPT-3或ChatGPT生成
+- [Sapling AI Content Detector](https://sapling.ai/ai-content-detector) - Sapling.ai推出的免费在线AI内容检测工具
+- [Smodin AI Content Detector](https://smodin.io/ai-content-detector) - 多语种AI内容检测工具
+- [Writecream AI Content Detector](https://www.writecream.com/ai-content-detector/) - Writecream推出的AI内容检测工具
+- [AISEO AI Content Detector](https://aiseo.ai/tools/ai-content-detector.html) - AISEO推出的AI内容检测器
+- [StudyCorgi ChatGPT Detector](https://studycorgi.com/free-writing-tools/chat-gpt-detector/) - StudyCorgi推出的帮助学生检测ChatGPT的工具
+- [CheckforAI](https://checkforai.com/) - 免费在线检测AI内容
+- [GPTZero](https://gptzero.me/) - 超过百万人都在用的免费AI内容检测工具
+
+### AI提示命令
+- [一起玩Ai](https://175ai.cn/?refer=ai-nav.net) - 免费高质量提示词社区，1000+可视化提示词工具
+- [FlowGPT](https://flowgpt.com/) - ChatGPT指令大全
+- [Stable Diffusion Prompt Book](https://openart.ai/promptbook) - OpenArt推出的针对Stable Diffusion指令的手册
+- [PromptHero](https://prompthero.com/) - 发现Stable Diffusion、ChatGPT和Midjourney的提示用语
+- [ClickPrompt](https://www.clickprompt.org/zh-CN/) - 专为 Prompt 编写者设计的工具
+- [Generrated](https://generrated.com/) - 超过7480个基于DALL·E 2的图片生成指令语句
+- [PublicPrompts](https://publicprompts.art/) - 免费高质量的Prompts集合
+- [Snack Prompt](https://snackprompt.com/?ref=ai-nav.net) - 探索最新的ChatGPT语义提示词
+- [提示工程指南](https://www.promptingguide.ai/zh) - 免费开源的提示工程指南，GitHub标星超3万
+- [AIPRM](https://www.aiprm.com/) - 主要针对于SEO和SaaS文案写作的ChatGPT Prompts浏览器扩展
+- [绘AI](https://www.ai016.com/) - AI绘画提示词分享平台
+- [MJ Prompt Tool](https://prompt.noonshot.com/) - Midjourney Prompt帮助工具
+- [Visual Prompt Builder](https://tools.saxifrage.xyz/prompt) - 可视化AI提示语选择和搭建
+- [ChatGPT Prompt Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) - 免费开源的ChatGPT Prompt浏览器扩展
+- [PromptBase](https://promptbase.com/) - AI Prompts集合市场
+- [PromptVine](https://promptvine.com/) - ChatGPT Prompts和应用
+- [Awesome ChatGPT Prompts](https://prompts.chat/) - ChatGPT Prompts集合
+- [Learning Prompt](https://learningprompt.wiki/) - 免费的 Prompt Engineering 教程（中文开源）
+- [ChatGPT Shortcut](https://www.aishort.top/) - 开源的简单易用的ChatGPT快捷指令，让生产力加倍！
+- [词魂](https://icihun.com/?ref=ai-nav.net) - AIGC精品提示词库
+
+### AI训练模型
+- [GPT-4](https://openai.com/gpt-4) - OpenAI旗下最新的GPT-4模型
+- [Auto-GPT](https://news.agpt.co/) - 爆火的实现GPT-4完全自主的实验性开源项目，GitHub超
+- [AgentGPT](https://agentgpt.reworkd.ai/zh) - 在浏览器中组装、配置和部署自主人工智能的开源项目
+- [通义千问](https://tongyi.aliyun.com/) - 阿里巴巴最新推出的类ChatGPT响应人类指令的大模型
+- [悟道](https://www.baai.ac.cn/portal/article/index/cid/49/id/518.html) - 智源“悟道”大模型，中国首个+世界最大人工智能大模型
+- [Gradio](https://www.gradio.app/) - 开源的搭建机器学习模型UI界面的Python库
+- [MOSS](https://moss.fastnlp.top/) - 复旦大学团队开发的对话式大型语言模型
+- [讯飞星火认知大模型](https://xinghuo.xfyun.cn/?ch=srx_B0BBxh) - 科大讯飞推出的类ChatGPT的讯飞星火认知大模型
+- [DeepFloyd IF](https://www.deepfloyd.ai/deepfloyd-if) - StabilityAI旗下的DeepFloyd团队推出的图片生成模型
+- [ChatGLM](https://chatglm.cn/) - 开源的、支持中英双语的1300亿参数的对话语言模型
+- [商量SenseChat](https://chat.sensetime.com/wb/) - 商汤科技推出的类ChatGPT的人工智能大语言模型
+- [天工AI助手](https://tiangong.kunlun.com/) - 昆仑万维与奇点智源联合研发的对标ChatGPT的大语言模型
+- [Cohere](https://cohere.com/) - 构建AI产品的大语言模型平台
+- [DALL·E 2](https://openai.com/dall-e-2) - OpenAI旗下DALL·E 2图像生成模型
+- [Codex](https://openai.com/blog/openai-codex) - OpenAI旗下AI代码生成训练模型
+- [文心大模型](https://wenxin.baidu.com/) - 百度推出的产业级知识增强大模型
+- [序列猴子](https://openapi.mobvoi.com/index) - 出门问问推出的一款超大规模的语言模型
+- [魔搭社区](https://www.modelscope.cn/home) - 阿里达摩院推出的AI模型社区，超过300+开源AI模型
+- [BLOOM](https://huggingface.co/docs/transformers/model_doc/bloom) - HuggingFace推出的大型语言模型（LLM）
+- [阿里巴巴M6](https://m6.aliyun.com/#/) - 阿里巴巴达摩院推出的超大规模中文预训练模型(M6)
+- [Lamini](https://www.lamini.ai/) - 低门槛快速定制大语言模型的引擎
+- [StableLM](https://github.com/Stability-AI/StableLM) - Stability AI推出的开源的类ChatGPT大语言模型
+- [Gen-2](https://research.runwayml.com/gen2) - Runway最新推出的AI视频生成模型
+- [Civitai](https://civitai.com/) - AI艺术生成社区和模型共享中心
+- [DeepSpeed](https://www.deepspeed.ai/) - 微软开源的低成本实现类似ChatGPT的模型训练
+- [PaLM 2](https://ai.google/discover/palm2) - Google的下一代大语言模型，超过3400亿参数
+- [LLaMA](https://github.com/facebookresearch/llama) - Meta（Facebook）推出的AI大语言模型
+- [OpenBMB](https://www.openbmb.org/home) - 清华团队支持发起的大规模预训练语言模型库与相关工具
+- [Segment Anything（SAM）](https://segment-anything.com/) - Meta最新推出的AI图像分割模型
+- [HuggingFace](https://huggingface.co/) - AI开发社区
+- [Imagen](https://imagen.research.google/) - Google AI文字到图像生成模型
+- [StableVicuna](https://chat.lmsys.org/) - 第一个通过RLHF训练的大规模开源聊天机器人
+- [Watsonx.ai](https://www.ibm.com/products/watsonx-ai) - IBM推出的企业级生成式人工智能和机器学习平台
+- [Lobe](https://www.lobe.ai/) - 简单免费的机器学习模型训练工具
+- [Scale AI](https://scale.com/) - AI机器学习标注训练平台
+- [Replicate](https://replicate.com/) - 在线运行开源机器学习模型
+- [Evidently AI](https://www.evidentlyai.com/) - 开源的机器学习模型监测和测试工具
+- [Stable Diffusion](https://www.bing.com/search?q=Stable%20Diffusion&ensearch=1&mkt=zh-CN) - StabilityAI推出的文本到图像生成AI
+
+### AI开发框架
+- [TensorFlow](https://www.tensorflow.org/?hl=zh-cn) - Google推出的机器学习和人工智能开源库
+- [PyTorch](https://pytorch.org/) - 开源机器学习框架
+- [飞桨PaddlePaddle](https://www.paddlepaddle.org.cn/) - 开源深度学习平台
+- [昇思MindSpore](https://www.mindspore.cn/) - 华为开源自研AI深度学习框架
+- [Apache MXNet](https://mxnet.apache.org/versions/1.9.1/) - 免费开源的深度学习框架
+- [Scikit-learn](https://scikit-learn.org/stable/) - Python机器学习库
+- [Vercel AI SDK](https://sdk.vercel.ai/docs?utm_source=ai-bot.cn) - Vercel开源的搭建AI聊天机器人的开发套件，支持React/Svelte/Vue等框架
+- [Keras](https://keras.io/) - Python版本的TensorFlow深度学习API
+- [Caffe](https://caffe.berkeleyvision.org/) - UC伯克利研究推出的深度学习框架
+- [NumPy](https://numpy.org/) - Python科学计算必备的包
+- [DL4J](https://deeplearning4j.konduit.ai/) - 开源的使用JVM部署和训练深度学习模型的套件
+- [JAX](https://jax.readthedocs.io/en/latest/) - Google推出的用于变换数值函数的机器学习框架
+- [NLTK](https://www.nltk.org/) - Python自然语言处理工具包
+- [LangChain](https://docs.langchain.com/docs/) - 开发由语言模型驱动的应用程序的框架
+- [Lightning AI](https://lightning.ai/?ref=ai-nav.net) - 快速训练、部署和开发人工智能产品的深度学习框架，由Pytorch Lightning团队推出
+- [Leap](https://tryleap.ai/?utm_source=ai-nav.net) - 将AI快速集成到你自己的应用中
+
+### 机场节点
+- [狗狗加速](https://www.dginv.click/#/register?code=ZyMzTvB7) - 狗狗加速，集群负载均衡，不限速，无审计，高速专线，极低延迟。全球独家Hysteria2协议，解锁流媒体及ChatGPT，不限设备数，全平台通用
+- [三分机场](https://uk.sanfen.me/#/register?code=fSseKQYa) - 15块300G还要啥自行车
+- [可乐云](https://eded.keley02.top/#/login?code=Qy6I3FWO) - 全球10个国家接入，99.99% SLA 保证，1Gbps 带宽保证，IEPL 国际专线
+- [WgetCloud](https://invite.wgetcloud.ltd/auth/register?code=5ERE4f) - WgetCloud 采用专线翻墙线路，高稳定性，避免国际线路拥堵造成的不良翻墙体验，支持 Trojan 翻墙协议，路由器可选择 SSR 订阅
+- [老猫云](https://laomao.biz?path=register&code=JGCKGHWa) - 已经升级到了trojan协议，trojan会使用tls加密，入口是深圳移动。IEPL企业级内网专线，最高1000Mbps 速率可用，99% SLA 保证，50+ 全球落地节点。
+- [放心云](https://web.fxyjs.fun/#/register?code=Z0i3YPhk) - 1000Mbps带宽不限速，上Google/撸Youtube 4K/小电影。全解锁Netflix|HBO|HULU等流媒体，不限制设备在线数，自研V2ray后端,匿名不记录任何日志，V2ray协议加密保证您的隐私安全。新手免费提供3天试用套餐，先试用再购买
+- [起帆](https://www.qf1.us/#/register?code=FpqKzaKu) - 限时7.5折优惠码：26Ikam7l。全网首家推出Hysteria协议的高速机场，与传统机场不同的是，我们使用此协议能轻松穿透运营商QOS，无论任何时候，秒开8K甚至12K视频无压力可言。并且解锁了ChatGPT与大部分流媒体，拥有强大的研发技术组，全程保障您的使用安全性，稳定性与速度！
+- [九紫离火云](https://yes.123www456.top/#/register?code=TKTLbtD1) - 多地区1000Mbps峰值速率 电信/移动/联通入口接入。Netflix、HBO、Disney+、ChatGPT等流媒体解锁。支持SecureX安全隧道加密协议，香港、日本、新加坡、美国、法国等全球20多个地区中继接入
+- [EFCloud](https://inv.easyfastcloud.com/#/register?code=Eq61saR9) - 专业的云端知识库。
+- [STC](http://acids.stc-spare1.com/auth/register?code=511V) - STC-SPADES采用新一代流量中继服务，所有流量将加密传输到我们的数据中心并转发到目标地址，速度更快，稳定性更强。国内5大中转出口 全球7大数据中心 100+落地节点；全平台SSR+V2Ray订阅模式。全新升级IPLC国际专线，尽享自由传输；官方客户端一键连接，高效、便捷、快速体验。
+- [Eternal Network](https://bc58b79e1713121b.cdn.jiashule.com/#/register?code=NlobEPvw) - WgetCloud 采用专线翻墙线路，高稳定性，避免国际线路拥堵造成的不良翻墙体验，支持 Trojan 翻墙协议，路由器可选择 SSR 订
+- [Tomcat](https://teacat.cloud/#/register?code=wcln0rZa) - 12块50G还要啥自行车
+- [红魔馆网络](https://d0t1r8y9r7.yangmei.design/#/register?code=b60HXItR) - 优惠码：remiliayyds 八五折,最高1000mpbs的节点速度，部分0.5低倍率节点，保证你的上网体验，港台流媒体解锁，让你体验到真正的互联网流媒体。
+- [Free+](https://freeplus.top/#/register?code=MhvyTRBe) - 新用户免费使用7天1G流量
+- [红杏加速器](https://hongxingdl.com/web/#/login?code=2vLzk6Wu) - 红杏云，纯净/高速/稳定
+- [FSCloud](https://dash.996cloud.top/#/register?code=14lShPOs) - 1元100G还要啥自行车，直接冲就完事了
+- [烤肠云](https://reborn.kaochang.ltd/#/register?code=WE8qrNPG) - 1元2G每月的测试套餐
+- [M78星云](https://m78star.cloud/#/register?code=MLBEu8Zi) - 高端IEPL和IPLC线路，套餐价格低至7元，赠送Emby服务，海量4K国内外影视剧随意观看。解锁Netflix、Disney+、ChatGPT等全球流行平台
+- [魔戒](https://mojie.info/#/register?code=vv0sB50W) - 一家主打性价比的纯流量计费机场，创立于2021 年，提供Trojan 和Vmess 协议节点，直连和公网隧道中转，流量包均不限使用时长。还有分站八戒机场
+- [OKCLOUD机场](https://okokcloud.top/#/register?code=vZRXNDss) - OK CLOUD机场拥有超稳定高速的SS/SSR节点，不限制本人设备数，IEPL/Anycast 专线网络，最高1000M 带宽。流畅观看 Netflix、HBO、Fox+、Disney+、BBC iPlayer、 TVB 等平台上的海量电视剧和电影。新用户可试用7天，先试用再购买。
+- [魔戒](https://mojie.info/#/register?code=vv0sB50W) - 一家主打性价比的纯流量计费机场，创立于2021 年，提供Trojan 和Vmess 协议节点，直连和公网隧道中转，流量包均不限使用时长。还有分站八戒机场
+- [MDSSCLOUD](https://mojie.info/#/register?code=vv0sB50W) - 节点特性包括IEPL、CC、BGP、AIA专线、Anycast（腾讯）以及SDWAN（内网专线稳定、无QoS等级、延迟极低）。基于自有专线资源托管服务，总冗余10Gbps，该订阅最大可突发3000Mbps业务带宽，具有强大SLA保证。
+- [青云梯机场](https://qytaffcc01.qytaff.pro/register?aff=3kRr38Lo) - 支持解锁所有流媒体，包括Netflix、Disney+、HBO MAX、Hugo等等；支持解锁ChatGPT、bing等ai工具；覆盖的线路涵盖香港、台湾、日本、新加坡、美国、韩国、越南、菲律宾、泰国、印度、德国、法国、英国、阿根廷等地。
+- [飞天猪](https://ftzaffcom01.fliggyaff.xyz/#/register?code=33L67N5N) - 飞天猪机场，Trojan协议，IEPL全专线节点，原生IP , 最高速率可达到3000Mbps。全节点支持流媒体解锁（包括Netflix , Disney+, HBO等），完美解锁ChatGPT，支持Tiktok本土短视频运营和直播。晚高峰不限速，所有套餐x1倍率，可支持企业和个人独享IP和家宽定制。
+
+### 服务器大全
+- [Hostbrr](https://my.hostbrr.com/order/forms/a/NDc5NA==) - HostBrr提供的大硬盘存储VPS开设在Hetzner德国机房
+- [BuyVM](https://my.hostbrr.com/order/forms/a/NDc5NA==) - BuyVM是一家知名的VPS提供商，提供高性价比的VPS服务。 其数据中心位于卢森堡、拉斯维加斯、迈阿密和纽约等多个地点
+- [RackBerd](https://my.racknerd.com/aff.php?aff=6211) - RackNerd 是一家成立于 2019 年的国外 VPS 主机商，提供虚拟主机、VPS、Hybrid Dedicated Servers 和独立服务器租用等。商家提供有 7 个机房可供选择（洛杉矶、西雅图、达拉斯、芝加哥、阿什本、亚特兰大、纽约）
